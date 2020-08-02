@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1541073221 source:d:\level 4 term 2\cse 410 computer graphics sessional\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\level 4 term 2\cse 410 computer graphics sessional\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1542468929 source:d:\level 4 term 2\cse 410 computer graphics sessional\cameragun\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\level 4 term 2\cse 410 computer graphics sessional\cameragun\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1548335141 source:d:\level 4 term 2\cse 410 computer graphics sessional\offline4\cameragun\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+	<iostream>
+	<fstream>
+	<cassert>
+	<iomanip>
+	<cmath>
+	<stack>
+	<queue>
+
+1392007564 d:\level 4 term 2\cse 410 computer graphics sessional\offline4\cameragun\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1551787725 source:d:\level 4 term 2\cse 410 computer graphics sessional\offline4\ray tracing\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+	<iostream>
+	<fstream>
+	<cassert>
+	<iomanip>
+	<cmath>
+	<stack>
+	<queue>
+	"bitmap_image.hpp"
+
+1392007564 d:\level 4 term 2\cse 410 computer graphics sessional\offline4\ray tracing\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1545710763 d:\level 4 term 2\cse 410 computer graphics sessional\offline4\ray tracing\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
